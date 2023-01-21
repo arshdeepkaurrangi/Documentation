@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-21T17:20:32.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bvC7eMTSHVOEkcqDqvn_" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-21T17:28:50.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="9z3UfzI1rr8LTtrMsNYh" version="20.8.10" type="github">
   <diagram name="Page-1" id="6nl35vsLAsva88mgKixI">
-    <mxGraphModel dx="3475" dy="1353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2950" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,15 @@
         <mxCell id="sVJqD786YdZGdAk7iiqr-6" value="Kids" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-8" value="Books" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-98" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" edge="1" parent="1" source="sVJqD786YdZGdAk7iiqr-8" target="sVJqD786YdZGdAk7iiqr-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-320" y="1190" />
+              <mxPoint x="-320" y="928" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-8" value="Books" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-280" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sVJqD786YdZGdAk7iiqr-10" value="Recommendations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -123,20 +131,32 @@
         <mxCell id="sVJqD786YdZGdAk7iiqr-52" value="Sign In" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-56" value="Popular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-103" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" edge="1" parent="1" source="sVJqD786YdZGdAk7iiqr-56" target="sVJqD786YdZGdAk7iiqr-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-220" y="550" />
+              <mxPoint x="-220" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-56" value="Popular" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-280" y="400" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-57" value="Fiction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="800" width="90" height="40" as="geometry" />
+        <mxCell id="sVJqD786YdZGdAk7iiqr-128" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" edge="1" parent="1" source="sVJqD786YdZGdAk7iiqr-57" target="sVJqD786YdZGdAk7iiqr-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-220" y="890" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-58" value="Non-Fiction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1160" width="90" height="40" as="geometry" />
+        <mxCell id="sVJqD786YdZGdAk7iiqr-57" value="Fiction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="720" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-58" value="Non-Fiction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1040" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sVJqD786YdZGdAk7iiqr-62" value="News and Noteworthy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-180" y="420" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-63" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;shadow=0;" edge="1" parent="1" source="sVJqD786YdZGdAk7iiqr-56" target="sVJqD786YdZGdAk7iiqr-56">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sVJqD786YdZGdAk7iiqr-65" value="Bestsellers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-180" y="470" width="100" height="40" as="geometry" />
@@ -147,74 +167,149 @@
         <mxCell id="sVJqD786YdZGdAk7iiqr-67" value="Popular Series" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-180" y="570" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-70" value="Popular Series" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-71" value="Libros en espanol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-180" y="620" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-71" value="Libros en espanol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-72" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-180" y="670" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-72" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="720" width="100" height="40" as="geometry" />
+        <mxCell id="sVJqD786YdZGdAk7iiqr-75" value="CLassics&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="740" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-74" value="&lt;a style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; background: rgb(255, 255, 255); color: rgb(0, 0, 0); text-decoration: none; min-width: 100%; display: inherit; width: fit-content; font-family: Fort-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.18px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot; data-location=&quot;header&quot; data-category=&quot;books&quot; data-element=&quot;books:fiction:classics&quot; tabindex=&quot;-1&quot; aria-label=&quot;Classics&quot; target=&quot;_self&quot; class=&quot;navigation-link no-mouse-outline&quot; href=&quot;https://www.penguinrandomhouse.com/books/classics/&quot;&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; margin: 0px; font-family: Fort-Book; font-size: 14px; color: rgb(0, 0, 0); line-height: 20px; padding: 1px 0px 5px; width: fit-content; text-align: left;&quot; class=&quot;nav-child-text&quot;&gt;Classics&lt;/p&gt;&lt;/a&gt;&lt;a style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; background: rgb(255, 255, 255); color: rgb(0, 0, 0); text-decoration: none; min-width: 100%; display: inherit; width: fit-content; font-family: Fort-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.18px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot; data-location=&quot;header&quot; data-category=&quot;books&quot; data-element=&quot;books:fiction:romance&quot; tabindex=&quot;-1&quot; aria-label=&quot;Romance&quot; target=&quot;_self&quot; class=&quot;navigation-link no-mouse-outline&quot; href=&quot;https://www.penguinrandomhouse.com/books/romance&quot;&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; margin: 0px; font-family: Fort-Book; font-size: 14px; color: rgb(0, 0, 0); line-height: 20px; padding: 1px 0px 5px; width: fit-content; text-align: left;&quot; class=&quot;nav-child-text&quot;&gt;Romance&lt;/p&gt;&lt;/a&gt;&lt;a style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; background: rgb(255, 255, 255); color: rgb(0, 0, 0); text-decoration: none; min-width: 100%; display: inherit; width: fit-content; font-family: Fort-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.18px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot; data-location=&quot;header&quot; data-category=&quot;books&quot; data-element=&quot;books:fiction:literary fiction&quot; tabindex=&quot;-1&quot; aria-label=&quot;Literary Fiction&quot; target=&quot;_self&quot; class=&quot;navigation-link no-mouse-outline&quot; href=&quot;https://www.penguinrandomhouse.com/books/literary-fiction&quot;&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; margin: 0px; font-family: Fort-Book; font-size: 14px; color: rgb(0, 0, 0); line-height: 20px; padding: 1px 0px 5px; width: fit-content; text-align: left;&quot; class=&quot;nav-child-text&quot;&gt;Literary Fiction&lt;/p&gt;&lt;/a&gt;&lt;a style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; background: rgb(255, 255, 255); color: rgb(0, 0, 0); text-decoration: none; min-width: 100%; display: inherit; width: fit-content; font-family: Fort-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.18px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot; data-location=&quot;header&quot; data-category=&quot;books&quot; data-element=&quot;books:fiction:mystery&quot; tabindex=&quot;-1&quot; aria-label=&quot;Mystery&quot; target=&quot;_self&quot; class=&quot;navigation-link no-mouse-outline&quot; href=&quot;https://www.penguinrandomhouse.com/books/mystery-suspense&quot;&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; margin: 0px; font-family: Fort-Book; font-size: 14px; color: rgb(0, 0, 0); line-height: 20px; padding: 1px 0px 5px; width: fit-content; text-align: left;&quot; class=&quot;nav-child-text&quot;&gt;Mystery&lt;/p&gt;&lt;/a&gt;&lt;a style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; background: rgb(255, 255, 255); color: rgb(0, 0, 0); text-decoration: none; min-width: 100%; display: inherit; width: fit-content; font-family: Fort-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.18px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot; data-location=&quot;header&quot; data-category=&quot;books&quot; data-element=&quot;books:fiction:science fiction &amp;amp; fantasy&quot; tabindex=&quot;-1&quot; aria-label=&quot;Science Fiction &amp;amp; Fantasy&quot; target=&quot;_self&quot; class=&quot;navigation-link no-mouse-outline&quot; href=&quot;https://www.penguinrandomhouse.com/books/science-fiction-fantasy&quot;&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; margin: 0px; font-family: Fort-Book; font-size: 14px; color: rgb(0, 0, 0); line-height: 20px; padding: 1px 0px 5px; width: fit-content; text-align: left;&quot; class=&quot;nav-child-text&quot;&gt;Science Fiction &amp;amp; Fantasy&lt;/p&gt;&lt;/a&gt;&lt;a style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; background: rgb(255, 255, 255); color: rgb(0, 0, 0); text-decoration: none; outline: 0px; min-width: 100%; cursor: pointer; display: inherit; width: fit-content; font-family: Fort-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.18px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot; data-location=&quot;header&quot; data-category=&quot;books&quot; data-element=&quot;books:fiction:view all&quot; tabindex=&quot;-1&quot; aria-label=&quot;view all Fiction&quot; target=&quot;_self&quot; class=&quot;navigation-link no-mouse-outline no-outline&quot; href=&quot;https://www.penguinrandomhouse.com/books/fiction/&quot;&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; margin: 0px 0px 21px; font-family: Fort-Book; font-size: 14px; color: rgb(0, 0, 0); line-height: 20px; padding: 1px 0px 5px; width: fit-content; text-align: left; text-decoration: underline;&quot; class=&quot;nav-child-text nav-child-view-all&quot;&gt;View All&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; transition: padding-left 0.3s ease 0s; padding-left: 0px;&quot; class=&quot;view-all-caret&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;/a&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="440" width="180" height="200" as="geometry" />
+        <mxCell id="sVJqD786YdZGdAk7iiqr-76" value="Romance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="790" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-75" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="820" width="100" height="40" as="geometry" />
+        <mxCell id="sVJqD786YdZGdAk7iiqr-77" value="Literary Fiction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="840" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-76" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="870" width="100" height="40" as="geometry" />
+        <mxCell id="sVJqD786YdZGdAk7iiqr-78" value="Mystery" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="890" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-77" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="920" width="100" height="40" as="geometry" />
+        <mxCell id="sVJqD786YdZGdAk7iiqr-79" value="Science Fiction &amp;amp; Fanatasy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="940" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-78" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="970" width="100" height="40" as="geometry" />
+        <mxCell id="sVJqD786YdZGdAk7iiqr-80" value="View All" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="990" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-79" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1020" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-80" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1070" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-81" value="Series" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1495" width="90" height="40" as="geometry" />
+        <mxCell id="sVJqD786YdZGdAk7iiqr-81" value="Series" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1360" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sVJqD786YdZGdAk7iiqr-82" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1515" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-83" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1565" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-84" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1615" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-85" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1665" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-86" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1715" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-87" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1765" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-89" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1180" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-90" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1230" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-91" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1280" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-92" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1330" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-93" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-180" y="1380" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-94" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-83" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-180" y="1430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-84" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-85" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-86" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-87" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-89" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1060" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-90" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-91" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-92" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-93" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-94" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-95" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="420" as="sourcePoint" />
+            <mxPoint x="-280" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-97" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="1059" as="sourcePoint" />
+            <mxPoint x="-280" y="1058.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-99" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="490" as="sourcePoint" />
+            <mxPoint x="-180" y="489.28999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-101" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="739" as="sourcePoint" />
+            <mxPoint x="-280" y="738.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-102" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="639" as="sourcePoint" />
+            <mxPoint x="-180" y="639.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-106" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-221" y="590" as="sourcePoint" />
+            <mxPoint x="-181" y="590.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-108" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="539" as="sourcePoint" />
+            <mxPoint x="-180" y="539.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-109" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-219" y="452" as="sourcePoint" />
+            <mxPoint x="-179" y="451.28999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-121" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="808" as="sourcePoint" />
+            <mxPoint x="-180" y="807.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-122" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="957" as="sourcePoint" />
+            <mxPoint x="-180" y="957.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-123" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-221" y="908" as="sourcePoint" />
+            <mxPoint x="-181" y="908.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-124" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="857" as="sourcePoint" />
+            <mxPoint x="-180" y="857.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-125" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-219" y="770" as="sourcePoint" />
+            <mxPoint x="-179" y="769.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVJqD786YdZGdAk7iiqr-129" value="&lt;a style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; background: rgb(255, 255, 255); color: rgb(0, 0, 0); text-decoration: none; min-width: 100%; display: inherit; width: fit-content; font-family: Fort-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.18px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot; data-location=&quot;header&quot; data-category=&quot;books&quot; data-element=&quot;books:nonfiction:biographies &amp;amp; memoirs&quot; tabindex=&quot;-1&quot; aria-label=&quot;Biographies &amp;amp; Memoirs&quot; target=&quot;_self&quot; class=&quot;navigation-link no-mouse-outline&quot; href=&quot;https://www.penguinrandomhouse.com/books/biography-memoir/&quot;&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; margin: 0px; font-family: Fort-Book; font-size: 14px; color: rgb(0, 0, 0); line-height: 20px; padding: 1px 0px 5px; width: fit-content; text-align: left;&quot; class=&quot;nav-child-text&quot;&gt;Biographies &amp;amp; Memoirs&lt;/p&gt;&lt;/a&gt;&lt;a style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; background: rgb(255, 255, 255); color: rgb(0, 0, 0); text-decoration: none; min-width: 100%; display: inherit; width: fit-content; font-family: Fort-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.18px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot; data-location=&quot;header&quot; data-category=&quot;books&quot; data-element=&quot;books:nonfiction:wellness&quot; tabindex=&quot;-1&quot; aria-label=&quot;Wellness&quot; target=&quot;_self&quot; class=&quot;navigation-link no-mouse-outline&quot; href=&quot;https://www.penguinrandomhouse.com/books/self-improvement&quot;&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; margin: 0px; font-family: Fort-Book; font-size: 14px; color: rgb(0, 0, 0); line-height: 20px; padding: 1px 0px 5px; width: fit-content; text-align: left;&quot; class=&quot;nav-child-text&quot;&gt;Wellness&lt;/p&gt;&lt;/a&gt;&lt;a style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; background: rgb(255, 255, 255); color: rgb(0, 0, 0); text-decoration: none; min-width: 100%; display: inherit; width: fit-content; font-family: Fort-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.18px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot; data-location=&quot;header&quot; data-category=&quot;books&quot; data-element=&quot;books:nonfiction:politics&quot; tabindex=&quot;-1&quot; aria-label=&quot;Politics&quot; target=&quot;_self&quot; class=&quot;navigation-link no-mouse-outline&quot; href=&quot;https://www.penguinrandomhouse.com/books/politics&quot;&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; margin: 0px; font-family: Fort-Book; font-size: 14px; color: rgb(0, 0, 0); line-height: 20px; padding: 1px 0px 5px; width: fit-content; text-align: left;&quot; class=&quot;nav-child-text&quot;&gt;Politics&lt;/p&gt;&lt;/a&gt;&lt;a style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; background: rgb(255, 255, 255); color: rgb(0, 0, 0); text-decoration: none; min-width: 100%; display: inherit; width: fit-content; font-family: Fort-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.18px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot; data-location=&quot;header&quot; data-category=&quot;books&quot; data-element=&quot;books:nonfiction:cooking&quot; tabindex=&quot;-1&quot; aria-label=&quot;Cooking&quot; target=&quot;_self&quot; class=&quot;navigation-link no-mouse-outline&quot; href=&quot;https://www.penguinrandomhouse.com/books/cooking&quot;&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; margin: 0px; font-family: Fort-Book; font-size: 14px; color: rgb(0, 0, 0); line-height: 20px; padding: 1px 0px 5px; width: fit-content; text-align: left;&quot; class=&quot;nav-child-text&quot;&gt;Cooking&lt;/p&gt;&lt;/a&gt;&lt;a style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; background: rgb(255, 255, 255); color: rgb(0, 0, 0); text-decoration: none; min-width: 100%; display: inherit; width: fit-content; font-family: Fort-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.18px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot; data-location=&quot;header&quot; data-category=&quot;books&quot; data-element=&quot;books:nonfiction:history&quot; tabindex=&quot;-1&quot; aria-label=&quot;History&quot; target=&quot;_self&quot; class=&quot;navigation-link no-mouse-outline&quot; href=&quot;https://www.penguinrandomhouse.com/books/history&quot;&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; margin: 0px; font-family: Fort-Book; font-size: 14px; color: rgb(0, 0, 0); line-height: 20px; padding: 1px 0px 5px; width: fit-content; text-align: left;&quot; class=&quot;nav-child-text&quot;&gt;History&lt;/p&gt;&lt;/a&gt;&lt;a style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; background: rgb(255, 255, 255); color: rgb(0, 0, 0); text-decoration: none; outline: 0px; min-width: 100%; cursor: pointer; display: inherit; width: fit-content; font-family: Fort-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.18px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot; data-location=&quot;header&quot; data-category=&quot;books&quot; data-element=&quot;books:nonfiction:view all&quot; tabindex=&quot;-1&quot; aria-label=&quot;view all Nonfiction&quot; target=&quot;_self&quot; class=&quot;navigation-link no-mouse-outline no-outline&quot; href=&quot;https://www.penguinrandomhouse.com/books/nonfiction/&quot;&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; margin: 0px 0px 21px; font-family: Fort-Book; font-size: 14px; color: rgb(0, 0, 0); line-height: 20px; padding: 1px 0px 5px; width: fit-content; text-align: left; text-decoration: underline;&quot; class=&quot;nav-child-text nav-child-view-all&quot;&gt;View All&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-shadow: none; text-rendering: optimizelegibility; transition: padding-left 0.3s ease 0s; padding-left: 0px;&quot; class=&quot;view-all-caret&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;/a&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1140" width="170" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
