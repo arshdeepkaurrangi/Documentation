@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T11:23:05.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DHyIT7EJZrSbbMUxiWTX" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-23T11:34:28.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RNXgDSgtDZSc9ACeb5IO" version="20.8.10" type="github">
   <diagram name="Page-1" id="6nl35vsLAsva88mgKixI">
-    <mxGraphModel dx="1628" dy="1501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1763" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -677,7 +677,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-216" value="Popular" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-216" value="Trending" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-200" y="-715" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sVJqD786YdZGdAk7iiqr-217" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" parent="1" source="sVJqD786YdZGdAk7iiqr-218" target="sVJqD786YdZGdAk7iiqr-230" edge="1">
@@ -688,7 +688,7 @@
             <mxPoint x="-100" y="-105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-218" value="Fiction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-218" value="Expert Picks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-200" y="-395" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sVJqD786YdZGdAk7iiqr-219" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" parent="1" source="sVJqD786YdZGdAk7iiqr-220" target="sVJqD786YdZGdAk7iiqr-246" edge="1">
@@ -698,37 +698,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-220" value="Non-Fiction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-220" value="&lt;div&gt;Features &amp;amp; Interviews&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-200" y="-165" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-221" value="News and Noteworthy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-221" value="Trending This Week" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-695" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-222" value="Bestsellers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-222" value="&lt;div&gt;Books to Read During Dry January&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-645" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-223" value="Must read books of 2022" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-223" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Books To Celebrate Lunar New Year for Any Age&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-595" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-224" value="Popular Series" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-224" value="&lt;div&gt;Books to Cope With Anxiety&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-545" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-225" value="Libros en espanol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-225" value="Shor Reads" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-495" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-226" value="Coming Soon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-226" value="Anti-Racist Resources" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-445" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-227" value="CLassics&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-227" value="&lt;div&gt;Editor&#39;s Picks: Fiction&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-375" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-228" value="Romance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-228" value="&lt;div&gt;Editor&#39;s Picks: Science Fiction &amp;amp; Fantasy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-325" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-229" value="Literary Fiction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-229" value="&lt;div&gt;Editor&#39;s Picks: Romance&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-275" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-230" value="Mystery" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-230" value="Staff Picks: Mystery" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-225" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sVJqD786YdZGdAk7iiqr-233" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" parent="1" source="sVJqD786YdZGdAk7iiqr-234" target="sVJqD786YdZGdAk7iiqr-238" edge="1">
@@ -739,37 +739,37 @@
             <mxPoint x="-100" y="445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-234" value="Series" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-234" value="For Book Clubs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-200" y="155" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-235" value="Gray Man" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-235" value="&lt;div&gt;Reese&#39;s Book Club&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="175" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-236" value="Dark Star Trilogy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-236" value="&lt;div&gt;Oprah’s Book Club&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="225" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-237" value="Ramses the Damned" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-237" value="&lt;div&gt;Guide: Trust&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="275" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-238" value="Outlander" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-238" value="Guide: Book Lovers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="325" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-241" value="Biographies &amp;amp; Memoirs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-241" value="&lt;div&gt;Emma Brodie Interview&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-145" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-242" value="Wellness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-242" value="&lt;div&gt;Gabriella Burnham Interview&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-95" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-243" value="Politics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-243" value="&lt;div&gt;Nicola Yoon Interview&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-45" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-244" value="Cooking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-244" value="&lt;div&gt;Qian Julie Wang Interview&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-245" value="History" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-245" value="&lt;div&gt;Deepak Chopra Essay&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="55" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-246" value="View All" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-246" value="How Can I Get Published?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-100" y="105" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sVJqD786YdZGdAk7iiqr-247" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" parent="1" edge="1">
@@ -893,7 +893,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-272" value="Non-Fiction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-272" value="Our Authors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="80" y="-715" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sVJqD786YdZGdAk7iiqr-273" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" parent="1" source="sVJqD786YdZGdAk7iiqr-274" target="sVJqD786YdZGdAk7iiqr-280" edge="1">
@@ -903,40 +903,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-274" value="Series" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-274" value="In Their Own Words" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="80" y="-395" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-275" value="Gray Man" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-275" value="&lt;div&gt;Qian Julie Wang&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="180" y="-375" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-276" value="Dark Star Trilogy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-276" value="&lt;div&gt;Patrick Radden Keefe&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="180" y="-325" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-277" value="Ramses the Damned" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-277" value="&lt;div&gt;Phoebe Robinson&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="180" y="-275" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-278" value="Outlander" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-278" value="&lt;div&gt;Emma Brodie&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="180" y="-225" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-279" value="Penguin Classics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-279" value="&lt;div&gt;Ta-Nehisi Coates&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="180" y="-175" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-280" value="View All" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-280" value="Laura Hankin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="180" y="-125" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-281" value="Biographies &amp;amp; Memoirs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-281" value="&lt;div&gt;Michelle Obama&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="180" y="-695" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-282" value="Wellness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-282" value="&lt;div&gt;Taylor Jenkins Reid&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="180" y="-645" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-283" value="Politics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-283" value="&lt;div&gt;Mohsin Hamid&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="180" y="-595" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-284" value="Cooking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-284" value="&lt;div&gt;Cormac McCarthy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="180" y="-545" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-285" value="History" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-285" value="&lt;div&gt;Celeste Ng&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="180" y="-495" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sVJqD786YdZGdAk7iiqr-286" value="View All" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -1015,7 +1015,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-300" value="Non-Fiction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-300" value="Book Lists" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="340" y="-715" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sVJqD786YdZGdAk7iiqr-301" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" parent="1" source="sVJqD786YdZGdAk7iiqr-302" target="sVJqD786YdZGdAk7iiqr-307" edge="1">
@@ -1026,40 +1026,40 @@
             <mxPoint x="440" y="-105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-302" value="Series" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-302" value="Articles" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="340" y="-395" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-303" value="Gray Man" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-303" value="&lt;div&gt;Between the World and Me Oral History&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="440" y="-375" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-304" value="Dark Star Trilogy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-304" value="&lt;div&gt;Meet the Bookseller: Yu and Me Books&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="440" y="-325" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-305" value="Ramses the Damned" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-305" value="&lt;div&gt;Cook a Soul Food Holiday Meal With Rosie Mayes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="440" y="-275" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-306" value="Outlander" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-306" value="&lt;div&gt;Ina Garten’s Chicken &amp;amp; Potatoes Recipe&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="440" y="-225" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-307" value="Penguin Classics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-307" value="Vallery Lomas’ Blueberry Buckle Recipe" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="440" y="-175" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-309" value="Biographies &amp;amp; Memoirs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-309" value="&lt;div&gt;The Best Books to Get Your Finances in Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="440" y="-695" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-310" value="Wellness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-310" value="&lt;div&gt;Must-Read Books by Indigenous Authors&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="440" y="-645" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-311" value="Politics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-311" value="&lt;div&gt;21 Books to Help You Learn Something New&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="440" y="-595" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-312" value="Cooking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-312" value="&lt;div&gt;Narrative Nonfiction to Rival Thrillers&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="440" y="-545" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-313" value="History" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-313" value="&lt;div&gt;Fiction for Food Lovers&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="440" y="-495" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sVJqD786YdZGdAk7iiqr-314" value="View All" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sVJqD786YdZGdAk7iiqr-314" value="&lt;div&gt;Manga and Graphic Novels&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="440" y="-445" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sVJqD786YdZGdAk7iiqr-315" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" parent="1" edge="1">
